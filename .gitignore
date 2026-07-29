@@ -1,0 +1,16 @@
+*.env
+*.log
+.DS_Store
+.cache/
+.env
+.env.development
+.env.local
+.env.production
+.idea/
+.next/
+.vercel/
+.vscode/
+build/
+dist/
+node_modules/
+public/firebase-config.js
